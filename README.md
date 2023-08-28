@@ -149,23 +149,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## 🔗 Links
 
 ### **_Checkout the Live Website:_** [SynCode](https://syncodeapp.herokuapp.com)
-
-<br />
-
-## 💻 Screens
-
-<p align="justify">
-<img src="https://user-images.githubusercontent.com/76626529/194299044-fe45b0bb-e21f-460f-9e8c-239c03241ece.png">
-<img src="https://user-images.githubusercontent.com/76626529/194299051-1835d042-2878-4227-a209-5afba7ea2e09.png">
-</p>
-<br/>
-
-## :heart: Open Source Contribution
-
-> Contributions make the Open Source Community such an amazing place to learn, inspire, and create.
->
-> All your contributions are truly appreciated.
-
-### If you want to contribute to this project, then follow the [Contribution Guidelines](https://github.com/mohitjaisal/Syncode/blob/master/CONTRIBUTING.md) **_carefully_**.<br/>
-
-#### I hope you like the project. Thanks for reading! 😀
